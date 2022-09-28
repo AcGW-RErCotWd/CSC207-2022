@@ -4,3 +4,9 @@
 [submodule "02-classes-in-java-AcGW-RErCotWd"]
 	path = 02-classes-in-java-AcGW-RErCotWd
 	url = https://github.com/CSC207-2022F-UofT/02-classes-in-java-AcGW-RErCotWd.git
+[submodule "03-inheritance-AcGW-RErCotWd"]
+	path = 03-inheritance-AcGW-RErCotWd
+	url = https://github.com/CSC207-2022F-UofT/03-inheritance-AcGW-RErCotWd.git
+[submodule "04-assorted-topics-in-java-AcGW-RErCotWd"]
+	path = 04-assorted-topics-in-java-AcGW-RErCotWd
+	url = https://github.com/CSC207-2022F-UofT/04-assorted-topics-in-java-AcGW-RErCotWd.git
