@@ -1,3 +1,6 @@
 [submodule "01-intro-to-java-AcGW-RErCotWd"]
 	path = 01-intro-to-java-AcGW-RErCotWd
 	url = https://github.com/CSC207-2022F-UofT/01-intro-to-java-AcGW-RErCotWd.git
+[submodule "02-classes-in-java-AcGW-RErCotWd"]
+	path = 02-classes-in-java-AcGW-RErCotWd
+	url = https://github.com/CSC207-2022F-UofT/02-classes-in-java-AcGW-RErCotWd.git
